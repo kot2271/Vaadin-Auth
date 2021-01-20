@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "/Users/kotan/Documents/GitHub/Vaadin-Auth",
+  "generatedFolder": "/Users/kotan/Documents/GitHub/Vaadin-Auth/target/frontend",
+  "frontendFolder": "/Users/kotan/Documents/GitHub/Vaadin-Auth/frontend",
+  "pnpm.enable": false,
+  "require.home.node": false
+}

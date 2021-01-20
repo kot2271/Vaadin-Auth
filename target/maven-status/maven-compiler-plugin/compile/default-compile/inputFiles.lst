@@ -1,0 +1,17 @@
+/Users/kotan/Documents/GitHub/Vaadin-Auth/src/main/java/com/vaadin/telros/app/data/repository/ContactRepository.java
+/Users/kotan/Documents/GitHub/Vaadin-Auth/src/main/java/com/vaadin/telros/app/ui/views/dashboard/DashboardView.java
+/Users/kotan/Documents/GitHub/Vaadin-Auth/src/main/java/com/vaadin/telros/app/security/ConfigureUIServiceInitListener.java
+/Users/kotan/Documents/GitHub/Vaadin-Auth/src/main/java/com/vaadin/telros/app/data/service/CompanyService.java
+/Users/kotan/Documents/GitHub/Vaadin-Auth/src/main/java/com/vaadin/telros/app/security/SecurityConfiguration.java
+/Users/kotan/Documents/GitHub/Vaadin-Auth/src/main/java/com/vaadin/telros/app/ui/MainLayout.java
+/Users/kotan/Documents/GitHub/Vaadin-Auth/src/main/java/com/vaadin/telros/app/data/repository/CompanyRepository.java
+/Users/kotan/Documents/GitHub/Vaadin-Auth/src/main/java/com/vaadin/telros/app/data/service/ContactService.java
+/Users/kotan/Documents/GitHub/Vaadin-Auth/src/main/java/com/vaadin/telros/app/data/entity/Contact.java
+/Users/kotan/Documents/GitHub/Vaadin-Auth/src/main/java/com/vaadin/telros/app/data/entity/AbstractEntity.java
+/Users/kotan/Documents/GitHub/Vaadin-Auth/src/main/java/com/vaadin/telros/app/data/entity/Company.java
+/Users/kotan/Documents/GitHub/Vaadin-Auth/src/main/java/com/vaadin/telros/app/Main.java
+/Users/kotan/Documents/GitHub/Vaadin-Auth/src/main/java/com/vaadin/telros/app/ui/views/list/ContactForm.java
+/Users/kotan/Documents/GitHub/Vaadin-Auth/src/main/java/com/vaadin/telros/app/security/SecurityUtils.java
+/Users/kotan/Documents/GitHub/Vaadin-Auth/src/main/java/com/vaadin/telros/app/ui/views/login/LoginView.java
+/Users/kotan/Documents/GitHub/Vaadin-Auth/src/main/java/com/vaadin/telros/app/ui/views/list/ListView.java
+/Users/kotan/Documents/GitHub/Vaadin-Auth/src/main/java/com/vaadin/telros/app/security/CustomRequestCache.java

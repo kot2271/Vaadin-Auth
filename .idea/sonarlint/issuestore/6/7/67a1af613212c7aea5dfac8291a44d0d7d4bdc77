@@ -1,0 +1,10 @@
+
+H
+java:S2160	"+Override the "equals" method in this class.(ÑÙª¥8¢Ÿò.
+B
+java:S2157	"%Add a "clone()" method to this class.(ÑÙª¥8¢Ÿò.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸ôö8¢Ÿò.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÊÌ×8¢Ÿò.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(À»Ş¸8¢Ÿò.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™ÛŸîøÿÿÿÿ8¢Ÿò.
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ê—æ?8¢Ÿò.

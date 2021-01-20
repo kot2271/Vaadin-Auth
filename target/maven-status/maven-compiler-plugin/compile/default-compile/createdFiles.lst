@@ -1,0 +1,5 @@
+com/vaadin/telros/app/ui/views/dashboard/DashboardView.class
+com/vaadin/telros/app/ui/views/list/ListView.class
+com/vaadin/telros/app/ui/MainLayout.class
+com/vaadin/telros/app/ui/views/list/ContactForm.class
+com/vaadin/telros/app/ui/views/login/LoginView.class
